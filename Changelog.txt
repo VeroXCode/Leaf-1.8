@@ -1,0 +1,16 @@
+###################
+##Leaf-Changelogs##
+###################
+
+
+##Build 2##
+
+##= added Speed2 =##
+##= added HUD =##
+##= added scaffold settings =##
+##= added tower settings =##
+##= updated Speed & Speed2 =##
+##= updated Killaura =##
+##= updated Tower =##
+##= fixed bug when toggling the gui, you have to toggle it twice for open it again =##
+##= fixed bug when attacking multiple targets with killaura, the delay will be ignored and will hit with over 16cps =##
