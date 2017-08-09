@@ -14,3 +14,5 @@
 ##= updated Tower =##
 ##= fixed bug when toggling the gui, you have to toggle it twice for open it again =##
 ##= fixed bug when attacking multiple targets with killaura, the delay will be ignored and will hit with over 16cps =##
+##= fixed bug when using killaura for a while it kicks you for "attempting an invalid entity" =##
+##= added Killaura doublehit, delay, autoblock and range settings/options =##
