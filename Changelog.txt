@@ -9,6 +9,7 @@
 ##= added HUD =##
 ##= added scaffold settings =##
 ##= added tower settings =##
+##= added AltManager =##
 ##= updated Speed & Speed2 =##
 ##= updated Killaura =##
 ##= updated Tower =##
